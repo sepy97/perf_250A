@@ -10,7 +10,7 @@
 #include <x86intrin.h>
 #include <chrono>
 
-#define NUMOFTRANS 100000//00
+#define NUMOFTRANS 10000000
 #define MAXTHREADS 10
 
 
