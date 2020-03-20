@@ -10,8 +10,8 @@
 #include <x86intrin.h>
 #include <chrono>
 
-#define NUMOFTRANS 10000000
-#define MAXTHREADS 4
+#define NUMOFTRANS 100000//00
+#define MAXTHREADS 10
 
 
 using namespace std;
